@@ -8,7 +8,7 @@ define("PASSWORD", "nuwe123");    // The database password.
 define("DATABASE", "project4");    // The database name.
  
 define("CAN_REGISTER", "any");
-define("DEFAULT_ROLE", "member");
+define("DEFAULT_ROLE", "members");
  
 define("SECURE", FALSE);    // FOR DEVELOPMENT ONLY!!!!
 ?>
