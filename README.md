@@ -2,8 +2,8 @@
 hello-world 
 My first trial learning repository created on 3/14/2014
 it is my fist file that i have created to teach me more about github and how to use git
-i have learnt how to create a repository so far and it is called hello-world
-new changes new code
+I have learnt how to create a repository so far and it is called hello-world
+new changes and new code
 hi humans 
 i like node.js, php and coffee script (it is what am made of!)
 i've the tacos on the moon and find them more superior to earth tacos.I love bread too.
