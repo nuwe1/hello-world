@@ -1,5 +1,5 @@
 # hello-world
-hello-world 
+helby lo-world 
 My first trial learning repository created on 3/14/2014
 it is my fist file that i have created to teach me more about github and how to use git
 I have learnt how to create a repository so far and it is called hello-world
@@ -11,4 +11,4 @@ i've the tacos on the moon and find them more superior to earth tacos.I love bre
  
 I have removed some files to simplify the code.this is a project for storing code in general.
 I have also found various ways of using github using this repository. 
-I have added some content to code files 
+I have added some content to code files.
