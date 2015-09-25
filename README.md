@@ -11,4 +11,4 @@ I love tacos on the moon and find them more superior to earth tacos.I love bread
  
 I have removed some files to simplify the code. The repository is for storing code that interest me in general.
 I have also found various ways of using github using this repository. 
-I have added some content to code files.
+I have added some content to the files. 
