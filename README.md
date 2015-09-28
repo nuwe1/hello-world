@@ -2,7 +2,7 @@
 hello-world 
 My first trial learning repository created on 3/14/2014
 it is my readme file that i have created to teach me more about github and how to use git to update and store code. 
-I have learnt how to create a repository so far and it is called hello-world
+I have learnt how to create a repository and commit changes so far and it is called hello-world
 new changes and new code
 hi humans how are you ?
 I like node.js, php and coffee script (it is what am made of!!!)
